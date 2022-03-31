@@ -1,0 +1,1 @@
+﻿Get-process | Select-Object PM,WS,CPU,ProcessName | Out-File .\Desktop\AT.txt

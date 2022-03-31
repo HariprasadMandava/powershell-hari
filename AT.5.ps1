@@ -1,0 +1,1 @@
+﻿Get-Process | Select-Object ProcessName| Export-Csv -Path .\Desktop\Process.csv 

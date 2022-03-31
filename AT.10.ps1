@@ -1,0 +1,1 @@
+﻿Get-Alias | Out-File .\Desktop\Alias.txt
