@@ -1,4 +1,4 @@
-$a = "Hari"
+﻿$a = "Hari"
 $b = "Prasad"
 $c = "Hari"
 $compare1 = $a -eq $c
