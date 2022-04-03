@@ -1,0 +1,10 @@
+﻿$$
+$?
+$Home
+$PWD
+$PSHOME
+$PSCulture
+$profile
+$Host
+$PID
+$PSVersionTable
